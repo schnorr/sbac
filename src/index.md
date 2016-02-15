@@ -15,9 +15,9 @@ Xplore</a>.
 ## Next Edition
 
 <p id="nextevent">
-<a href="2014">
-SBAC-PAD 2014, October 23 - 24, 2014<br/>
-Paris, France
+<a href='2015'>
+SBAC-PAD 2015, October, 2015<br />
+Florianopolis, Brazil
 </a>
 </p>
 
@@ -29,6 +29,12 @@ Paris, France
    <th>Submitted</th>
    <th>Accepted</th>
    <th>Acceptance Rate</th>
+</tr>
+<tr>
+   <td><a href='2014/'>SBAC-PAD 2014</a>  (Paris, France)</td>
+   <td>132</td>
+   <td>43</td>
+   <td>32.6%</td>
 </tr>
 <tr>
    <td><a href="2013/">SBAC-PAD 2013</a>  (Porto de Galinhas, Brazil)</td>
