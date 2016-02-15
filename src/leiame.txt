@@ -1,0 +1,38 @@
+SBAC-PAD and WSCAD-SSC
+======================
+
+This file explains how to organize this directory (www.sbc.org.br/sbac/)
+and also the diretory that holds the page (www.sbc.org.br/wscad/)
+
+---------------------------------------------------------------------------
+
+For the conference of year XXXX which is
+still not hosted in the SBC server, do this:
+
+1 - create the directory XXXX
+
+2 - create a file inside that directory with the following contents:
+    <? header ('Location: http://link.to.sbac.pad.edition.year.XXXX/'); ?>
+    
+3 - make sure the link www.sbc.org.br/sbac/XXXX redirects correctly to
+    the conference web site edition XXXX
+
+4 - update the file index with the appropriate information
+
+---------------------------------------------------------------------------
+
+After the end of the conference edition XXXX, do this:
+
+1 - execute the following command to copy the files of the remote web server
+    wget -E -r -k -np http://link.to.edition.XXXX.in.remote.server/dir/
+
+2 - make sure the downloaded files and web site internal links 
+    work properly without internet connection
+
+3 - move all the working web site to the directory XXXX, replacing the
+    old index.html with the redirect contents.
+
+4 - make sure the file index.php here is properly updated for next edition
+
+---------------------------------------------------------------------------
+Last update: June 20, 2009 - Lucas M. Schnorr - lmschnorr@inf.ufrgs.br
