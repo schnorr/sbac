@@ -15,9 +15,9 @@ Xplore</a>.
 ## Next Edition
 
 <p id="nextevent">
-<a href='2015'>
-SBAC-PAD 2015, October, 2015<br />
-Florianopolis, Brazil
+<a href='2016/'>
+SBAC-PAD 2016, October 26-28, 2016<br />
+Los Angeles, USA
 </a>
 </p>
 
@@ -29,6 +29,12 @@ Florianopolis, Brazil
    <th>Submitted</th>
    <th>Accepted</th>
    <th>Acceptance Rate</th>
+</tr>
+<tr>
+   <td><a href='2015/'>SBAC-PAD 2015</a>  (Florianopólis, Brazil)</td>
+   <td>102</td>
+   <td>26</td>
+   <td>25.5%</td>
 </tr>
 <tr>
    <td><a href='2014/'>SBAC-PAD 2014</a>  (Paris, France)</td>
@@ -115,17 +121,15 @@ Florianopolis, Brazil
   <td>38,1%</td>
 </tr>
 <tr>
-  <td>SBAC-PAD 2000</td>
+  <td>SBAC-PAD 2000 (São Pedro, Brazil)</td>
   <td>70</td>
   <td>41</td>
   <td>58.5%</td>
 </tr>
 <tr>
-  <td>SBAC-PAD 1999</td>
+  <td>SBAC-PAD 1999 (Natal, Brazil)</td>
   <td>90</td>
   <td>43</td>
   <td>47.7%</td>
 </tr>
 </table>
-
-
